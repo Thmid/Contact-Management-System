@@ -11,3 +11,12 @@ Main menu
 [6] Exit
 
 In this project you learning file handling ,how to write data,delete data and search data form file.I hope my post may help you and you can send email for further help.
+
+About Contact Management System in C:
+File handling, data structure, functions are the main things which make up this simple C mini project. The key features of contact management system are listed below:
+
+Add new contacts: with information such as name, phone number, address, and email
+List all contacts: lists all the contacts stored in file with their respective contact details
+Search contacts: based on name and phone number
+Edit contacts: edit information given while adding the contacts – name, phone number, address, and email
+Delete contacts: deletes contacts from file
